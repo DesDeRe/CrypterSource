@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\bin\Debug\ClieadawdASFAEbrfd.exe
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\bin\Debug\ClieadawdASFAEbrfd.pdb
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\bin\Debug\ClieadawdASFAEbrfd.xml
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\obj\x86\Debug\ClieadawdASFAEbrfd.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\obj\x86\Debug\ClieadawdASFAEbrfd.xfvbbdtbd.resources
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\obj\x86\Debug\ClieadawdASFAEbrfd.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\obj\x86\Debug\ClieadawdASFAEbrfd.exe
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\obj\x86\Debug\ClieadawdASFAEbrfd.xml
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\obj\x86\Debug\ClieadawdASFAEbrfd.pdb
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\obj\x86\Debug\ClieadawdASFAEbrfd.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\ClieadawdASFAEbrfd\ClieadawdASFAEbrfd\obj\x86\Debug\ClieadawdASFAEbrfd.sbvrbsrd.resources

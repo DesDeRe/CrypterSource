@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\bin\Debug\Stuadswadawded.exe
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\bin\Debug\Stuadswadawded.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\bin\Debug\Stuadswadawded.xml
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\obj\x86\Debug\Stuadswadawded.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\obj\x86\Debug\Stuadswadawded.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\obj\x86\Debug\Stuadswadawded.exe
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\obj\x86\Debug\Stuadswadawded.xml
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\obj\x86\Debug\Stuadswadawded.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\obj\x86\Debug\Stuadswadawded.butlöıbfuı.resources
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\obj\x86\Debug\Stuadswadawded.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\Stuadswadawded\Stuadswadawded\obj\x86\Debug\Stuadswadawded.hbfkkhb.resources
